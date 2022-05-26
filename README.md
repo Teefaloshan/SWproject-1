@@ -95,9 +95,9 @@ We used Travis CI which wass the first CI as a service tool. it introduced a new
 ![Screenshot (181)](https://user-images.githubusercontent.com/105608503/170506662-ab64d07e-d727-47ca-abc5-9fdd6f810da4.png)
 
 # Names of my Team members:
-1) Aljowharah Turki Aldawood 440022805
-2) Teef Mohammed Aloshan 440024009
-3) Lubna Mohammed Alrabiah 440022713
-4) Reem Mohammed Alothman 440020101
+1) Aljowharah Turki Aldawood Ataaldawood@sm.imamu.edu.sa
+2) Teef Mohammed Aloshan tmaaloshan@sm.imamu.edu.sa
+3) Lubna Mohammed Alrabiah lmialrabiah@sm.imamu.edu.sa
+4) Reem Mohammed Alothman Rmalothman01@sm.imamu.edu.sa
 
 
