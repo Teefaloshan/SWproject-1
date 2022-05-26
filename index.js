@@ -18,14 +18,20 @@ classifier.train("supervised", config).then((res) => {
 });
 
 app.use(cors());
+app.use(express.static(__dirname + '/public'));
+app.use(express.static('public'));
+const result = [];
+app.set('view engine', 'ejs');
+app.engine('ejs', require('ejs').__express);
 
 app.get("/", (req, res) => {
-  res.sendfile("index.html");
+  res.render("index",{result});
 });
 
 app.get("/fasttext/", function (req, res) {
   var statement = req.param("statement");
-  res.send(getFastTextResults(statement));
+  getFastTextResults(statement);
+  res.redirect('/');
 });
 
 function getFastTextResults(statement) {
@@ -34,6 +40,9 @@ function getFastTextResults(statement) {
     .predict(statement, 3)
     .then((res) => {
       console.log(res);
+      const label_name = res[0].label.split("__")[2];
+      result.push({value:statement, label:label_name});
+      console.log(result);
     })
     .catch((err) => {
       console.log(err);

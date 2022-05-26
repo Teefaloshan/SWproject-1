@@ -1,0 +1,149 @@
+* {
+    color: #9bd56a;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+  }
+  
+
+  .header {
+    width: 100%;
+    height: 160px;
+    display: block;
+    background-color: #94d361;
+  }
+
+  
+  .website_name h1 {
+    color: rgb(233, 228, 228);
+    height: 130px;
+    display: flex;
+    vertical-align: middle;
+    font-size: 60px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .Textbox {
+    border: 2px solid  #04763f;
+    outline: 0;
+    height: 35px;
+    width: 275px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  
+  .logo1 {
+    height: 160px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+  }
+
+  .logo2 {
+    height: 130px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+  }
+  
+  .wrap {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .item {
+    padding: 10px;
+  
+  }
+  
+  .btn {
+    outline: none;
+    display: block;
+    border: 0;
+    font-size: 16px;
+    line-height: 1;
+    padding: 16px 30px;
+    border-radius: 30px;
+    background:  #9bd56a;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3 linear;
+  }
+  .btn:hover .btn:focus {
+    background:  #9bd56a;
+  }
+  .btn:active {
+    background:   #9bd56a;
+  }
+  
+  .btn2 {
+    outline: none;
+    display: block;
+    border: 0;
+    font-size: 16px;
+    line-height: 1;
+    padding: 16px 30px;
+    border-radius: 30px;
+    background:   #9bd56a;
+    color: #ffffff;
+    cursor: pointer;
+    transition: all 0.3 linear;
+  }
+  
+  .outputarea{
+    border: 2px solid  #04763f;
+    padding: 0px;
+    margin: 20px;
+    justify-content: center;
+    width: 240px;
+    top: 50%;
+    left: 50%;
+    margin-left: 650px;
+     margin-top: 27px;
+    align-content: center;
+  }
+  
+  .results{
+    display: flex;
+    justify-content: space-between;
+  
+  }
+  
+  .text{
+    padding: 20px;
+  
+  }
+  
+  .value{
+  padding: 20px;
+  
+  }
+  
+  .A{
+    padding: 10px;
+  
+  }
+  
+  .B{
+    padding: 10px;
+    border-collapse: collapse;
+  
+  
+  }
+  
+  .tabel{
+    justify-content: space-between;
+    display: flex;
+  
+  }
