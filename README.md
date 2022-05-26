@@ -1,6 +1,6 @@
 I had in issue where i uploaded my files in a different repository thats why it seems that ive uploaded recently. 
 
-The link for my old repoitory that i've uploaded in by accident: https://github.com/Teefaloshan/SWproject.git
+This is the link of my old repository that i've uploaded and worked on by accident: https://github.com/Teefaloshan/SWproject.git
 
 # Food Investigator
 # Description:
@@ -40,7 +40,7 @@ In this Release we updated the js file to match the requirements. now the user w
 
 The result after being processed will be returned to the users page (UI).
 
-this is what my website UI looks like: 
+# my website User Interface looks like: 
 ![Screenshot (182)](https://user-images.githubusercontent.com/105608503/170506098-d46532d0-9f08-4801-8643-b3fba7a8d566.png)
 
 
