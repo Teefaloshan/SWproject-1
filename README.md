@@ -1,4 +1,4 @@
-I had in issue where i uploaded my files in a different repository thats why it seems that ive uploaded recently. 
+I had an issue where i uploaded my files in a different repository thats why it seems that ive uploaded recently. 
 
 This is the link of my old repository that i've uploaded and worked on by accident: https://github.com/Teefaloshan/SWproject.git
 
