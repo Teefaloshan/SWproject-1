@@ -40,7 +40,7 @@ In this Release we updated the js file to match the requirements. now the user w
 
 The result after being processed will be returned to the users page (UI).
 
-# my website User Interface looks like: 
+# My website User Interface looks like: 
 ![Screenshot (182)](https://user-images.githubusercontent.com/105608503/170506098-d46532d0-9f08-4801-8643-b3fba7a8d566.png)
 
 
