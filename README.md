@@ -91,6 +91,5 @@ We used Travis CI which wass the first CI as a service tool. it introduced a new
      Now you return to Travis CI and go to the intended repository and click on the braches then you will wait, few seconds later it will appear pass like in the pictures.
       
 # Images of Pass in Travis CI 
-
-![Screenshot (180)](https://user-images.githubusercontent.com/105608503/170504712-38bfec5d-b90c-4c25-b70c-442d0dfe0e1f.png)
-![Screenshot (181)](https://user-images.githubusercontent.com/105608503/170504751-f832f8e3-5c78-4917-b896-1199f1ab2bed.png)
+![Screenshot (180)](https://user-images.githubusercontent.com/105608503/170506647-c22e870b-d727-4765-993a-4c28001270c0.png)
+![Screenshot (181)](https://user-images.githubusercontent.com/105608503/170506662-ab64d07e-d727-47ca-abc5-9fdd6f810da4.png)
